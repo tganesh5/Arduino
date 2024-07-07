@@ -1,3 +1,5 @@
+// Author DigiLabs Inc
+
 int LED1 = 13;
 int LED2 = 12;
 int LED3 = 11;
